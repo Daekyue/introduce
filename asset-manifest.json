@@ -1,18 +1,27 @@
 {
   "files": {
-    "main.css": "/introduce/static/css/main.48976360.css",
-    "main.js": "/introduce/static/js/main.0126cfd1.js",
+    "main.css": "/introduce/static/css/main.3b7d1f86.css",
+    "main.js": "/introduce/static/js/main.9e500294.js",
     "static/js/488.d91dfa61.chunk.js": "/introduce/static/js/488.d91dfa61.chunk.js",
     "static/media/instagram-icon.png": "/introduce/static/media/instagram-icon.94bdcebbe724fc9ff6b7.png",
     "static/media/profile-image.jpg": "/introduce/static/media/profile-image.1edcee0d27fdcfcd8529.jpg",
+    "static/media/django-logo.png": "/introduce/static/media/django-logo.47daa66d9bee5b34fa56.png",
+    "static/media/insta-qr.png": "/introduce/static/media/insta-qr.154b75c73aba8fe295fd.png",
+    "static/media/python-logo.png": "/introduce/static/media/python-logo.d8b377f05522bf35de36.png",
+    "static/media/kakao-qr.jpg": "/introduce/static/media/kakao-qr.cdb573efcbb7216d8e12.jpg",
+    "static/media/java-logo.png": "/introduce/static/media/java-logo.6b69aa9efb979367dd5c.png",
+    "static/media/react-logo.png": "/introduce/static/media/react-logo.65ca18b4e9841f85a691.png",
+    "static/media/javaScript-logo.png": "/introduce/static/media/javaScript-logo.166865dacb77d214f485.png",
+    "static/media/androidStudio-logo.png": "/introduce/static/media/androidStudio-logo.a05966bd780dd7da4b30.png",
+    "static/media/c++-logo.png": "/introduce/static/media/c++-logo.1240ce157b70fb399c6c.png",
     "static/media/kakao-icon.png": "/introduce/static/media/kakao-icon.44a397d76cb4ffd7c230.png",
     "index.html": "/introduce/index.html",
-    "main.48976360.css.map": "/introduce/static/css/main.48976360.css.map",
-    "main.0126cfd1.js.map": "/introduce/static/js/main.0126cfd1.js.map",
+    "main.3b7d1f86.css.map": "/introduce/static/css/main.3b7d1f86.css.map",
+    "main.9e500294.js.map": "/introduce/static/js/main.9e500294.js.map",
     "488.d91dfa61.chunk.js.map": "/introduce/static/js/488.d91dfa61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48976360.css",
-    "static/js/main.0126cfd1.js"
+    "static/css/main.3b7d1f86.css",
+    "static/js/main.9e500294.js"
   ]
 }

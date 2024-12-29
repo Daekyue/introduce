@@ -1,5 +1,5 @@
 /* 1) 나눔 고딕 폰트 불러오기 (Google Fonts) */
-@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
 
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
@@ -32,8 +32,8 @@ body {
   /* display: flex; place-items: center; 제거해서 중앙 정렬 없애기 */
   display: block;
   /* 나눔고딕 폰트 적용 */
-  font-family: "Nanum Gothic", sans-serif;
-  font-size: 16px; 
+  font-family: "Nanum Pen Script", serif;
+  font-size: 20px; 
   line-height: 1.6;
   color: #333;
 }
@@ -41,6 +41,10 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+}
+
+h3 {
+  font-size : 1.4rem;
 }
 
 button {

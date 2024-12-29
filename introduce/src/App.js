@@ -127,7 +127,7 @@ function App() {
         </section>
 
         <section className="goal">
-          <h3>2학기 목표와 다짐</h3>
+          <h2>2학기 목표와 다짐 ヾ(^▽^*)))</h2>
           <ul>
             <li>멋진 프로젝트를 하고 싶습니다!!</li>
             <li>팀원들과 함께 성장할 수 있는 사람</li>
@@ -136,7 +136,7 @@ function App() {
         </section>
 
         <section className="hashtag">
-          <h3>Hash Tag</h3>
+          <h2>Hash Tag</h2>
           <p># 축구</p>
           <p># 산책</p>
           <p># 풀스택??</p>
@@ -151,7 +151,7 @@ function App() {
       <div className="right-content">
         {/* 프로젝트 경험 */}
         <section className="project-list">
-          <h3> 프로젝트 경험 </h3>
+          <h2> 프로젝트 경험 </h2>
           <ol>
             <li>안드로이드 스튜디오를 활용한 어플 개발 경험 (Frontend)</li>
             <li>React를 활용한 웹 사이트 개발 경험 (Frontend)</li>
@@ -221,14 +221,12 @@ function App() {
           </div>
         </section>
 
-        {/* 사진 갤러리 */}
-        <section className="photo-gallery">
-          <h3>사랑이 재산이다.</h3>
-          <p>다른 사람과 함께한 사진들, 모임, MT 사진 등</p>
-          <div className="photo-grid">
-            <img src="group-photo1.jpg" alt="단체사진1" />
-            <img src="group-photo2.jpg" alt="단체사진2" />
-          </div>
+        <section className="etc">
+          <h2>ETC... *^____^*</h2>
+          <p>- 카톡, dm, mm 답장 잘 합니다!</p>
+          <p>- 맛집 탐방도 좋아합니다!</p>
+          <p>- 그냥 사람들을 좋아합니다!</p>
+          <p>- 2학기 잘 부탁드리겠습니다!</p>
         </section>
       </div>
 
